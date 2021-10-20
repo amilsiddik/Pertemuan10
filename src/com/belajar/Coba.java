@@ -1,9 +1,8 @@
 package com.belajar;
 
-public class Main {
-
+public class Coba {
     public static void main(String[] args) {
-        System.out.println("hello world");
+        System.out.println("Hello");
     }
 
 }
