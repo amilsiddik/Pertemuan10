@@ -1,8 +1,11 @@
 package com.belajar;
 
+import java.util.Arrays;
+
 public class Coba {
     public static void main(String[] args) {
         int[] arrayAngka = { 11, 12, 13, 14, 15, 16, 17, 18, 19, 20 };
+        System.out.println(Arrays.toString(arrayAngka));
 
         // looping standard
         System.out.println("looping standard");
