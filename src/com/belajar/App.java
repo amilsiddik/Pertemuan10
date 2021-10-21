@@ -13,5 +13,8 @@ public class App {
 
         b = a;
         System.out.println(a + " dan " + b);
+
+        a = 4;
+        System.out.println(a + " dan " + b);
     }
 }
